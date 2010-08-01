@@ -168,7 +168,7 @@
   <project path="packages/wallpapers/LivePicker" name="platform/packages/wallpapers/LivePicker" />
   <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" />
   <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
-  <project path="packages/wallpapers/Pl3xLiveWallpaper" name="LithiumMOD/android_packages_wallpapers_Pl3xLiveWallpaper" remote="github">
+  <project path="packages/wallpapers/Pl3xLiveWallpaper" name="LithiumMOD/android_packages_wallpapers_Pl3xLiveWallpaper" remote="github" />
 
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="sdk" name="platform/sdk" />
