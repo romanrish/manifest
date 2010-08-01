@@ -23,7 +23,7 @@
 
   <project path="device/common" name="device/common" />
   <project path="device/generic" name="CyanogenMod/android_device_generic" remote="github" />
-  <project path="device/motorola/sholes" name="koush/android_device_motorola_sholes" remote="github">
+  <project path="device/motorola/sholes" name="koush/android_device_motorola_sholes" remote="github" />
 
   <project path="external/apache-http" name="platform/external/apache-http" />
   <project path="external/astl" name="platform/external/astl" />
