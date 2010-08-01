@@ -1,0 +1,14 @@
+LithiumMOD
+===============
+
+README
+---------
+
+This is the LithiumMOD manifest. In order to obtain the repository you must first have "repo" and "git" installed on your UNIX machine.
+
+After you have those 2 things, to sync the repo try:
+	repo init -u git://github.com/LithiumMOD/manifest.git
+And then try:
+	repo sync
+
+
