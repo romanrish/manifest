@@ -179,6 +179,6 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="system/wlan/ti" name="platform/system/wlan/ti" />
 
-  <project path="vendor/lithiummod" name="LithiumMOD/LithiumMod_vendor" remote="github" />
+  <project path="vendor/lithiummod" name="LithiumMOD/LithiumMod_Vendor" remote="github" />
 
 </manifest>
